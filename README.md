@@ -2,7 +2,7 @@
 [ CSE4100 System Programming Prj1~4 ]
 Sogang Univ. 2024 Spring Semester
 
-### Prj1: Make Simple data structure(bitmap, hash, list)
+### Prj1: Simple data structure(bitmap, hash, list)
 
 ### Prj2 : myshell
 - Phase 1 : Building and Testing Your Shell 
